@@ -1,6 +1,5 @@
 👋🏾, I'm @Deebee33 and coding interests me👀. 
-I'm learning R 🌱 and possibly python to better opperate modeling programs like Bio3d or Charmm
-📫 bratcherderek@gmail.com
+
 
 
 
